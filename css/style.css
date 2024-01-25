@@ -1,0 +1,2130 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #0f1320;
+  width: 1920px;
+  height: 6454px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-61 {
+  width: 1920px;
+  height: 948px;
+  position: absolute;
+  left: 0px;
+  top: 5506px;
+  overflow: hidden;
+}
+._1-4-x-2 {
+  width: 1856px;
+  height: 951px;
+  position: absolute;
+  left: 2231.76px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(15deg) scale(-1, 1);
+  filter: blur(100px);
+  object-fit: cover;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.connect-wallet {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 982px;
+  top: 616px;
+}
+.tokens {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 778px;
+  top: 616px;
+}
+.our-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 555px;
+  top: 616px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.1599999964237213;
+  position: absolute;
+  left: 704px;
+  top: 616px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.1599999964237213;
+  position: absolute;
+  left: 908px;
+  top: 616px;
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.1599999964237213;
+  position: absolute;
+  left: 1193px;
+  top: 616px;
+}
+.lightpaper {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: absolute;
+  left: 1267px;
+  top: 616px;
+}
+.logo-colored-sign-black-text {
+  position: absolute;
+  right: 79.95%;
+  left: 9.27%;
+  width: 10.78%;
+  bottom: 15.82%;
+  top: 80.7%;
+  height: 3.48%;
+  overflow: hidden;
+}
+.group-3 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+.tokners {
+  height: auto;
+  position: absolute;
+  right: 7.54%;
+  left: 24.57%;
+  width: 67.89%;
+  bottom: 0%;
+  top: 26.67%;
+  height: 73.33%;
+  overflow: visible;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+.group-15 {
+  width: 290px;
+  height: 50px;
+  position: static;
+}
+.ellipse-13 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 50.26%;
+  left: 47.14%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.ellipse-16 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 47.14%;
+  left: 50.26%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.ellipse-17 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 44.01%;
+  left: 53.39%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.ellipse-14 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 53.39%;
+  left: 44.01%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.ellipse-15 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 56.51%;
+  left: 40.89%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.instagram-1-1 {
+  height: auto;
+  position: absolute;
+  right: 51.04%;
+  left: 47.92%;
+  width: 1.04%;
+  bottom: 16.56%;
+  top: 81.33%;
+  height: 2.11%;
+  overflow: visible;
+}
+.github-1 {
+  height: auto;
+  position: absolute;
+  right: 44.79%;
+  left: 54.17%;
+  width: 1.04%;
+  bottom: 16.56%;
+  top: 81.33%;
+  height: 2.11%;
+  overflow: visible;
+}
+.twitter-2-1 {
+  height: auto;
+  position: absolute;
+  right: 57.29%;
+  left: 41.67%;
+  width: 1.04%;
+  bottom: 16.56%;
+  top: 81.33%;
+  height: 2.11%;
+  overflow: visible;
+}
+.facebook-4-1 {
+  height: auto;
+  position: absolute;
+  right: 54.11%;
+  left: 44.74%;
+  width: 1.15%;
+  bottom: 16.46%;
+  top: 81.22%;
+  height: 2.32%;
+  overflow: visible;
+}
+.ellipse-172 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  opacity: 0.05000000074505806;
+  position: absolute;
+  right: 40.89%;
+  left: 56.51%;
+  width: 2.6%;
+  bottom: 14.98%;
+  top: 79.75%;
+  height: 5.27%;
+}
+.reddit-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1100px;
+  top: 771px;
+  overflow: visible;
+}
+.medium-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 980px;
+  top: 771px;
+  overflow: visible;
+}
+.group-22 {
+  position: absolute;
+  inset: 0;
+}
+.group-21 {
+  opacity: 0.5;
+  width: 148px;
+  height: 22px;
+  position: static;
+}
+.design-by-oleg-kulik {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 140%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 9.01%;
+  left: 84.58%;
+  width: 6.41%;
+  bottom: 15.51%;
+  top: 82.7%;
+  height: 1.79%;
+}
+.vector11 {
+  height: auto;
+  position: absolute;
+  right: 15.62%;
+  left: 83.28%;
+  width: 1.09%;
+  bottom: 15.3%;
+  top: 82.38%;
+  height: 2.32%;
+  overflow: visible;
+}
+._2021-tokners-all-rights-reserved {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 700;
+  position: absolute;
+  right: 9.01%;
+  left: 68.59%;
+  width: 22.4%;
+  bottom: 17.62%;
+  top: 80.06%;
+  height: 2.32%;
+}
+.group-37 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 4132px;
+  overflow: visible;
+}
+.rectangle-4 {
+  border-radius: 0px;
+  width: 511px;
+  height: 270px;
+  position: absolute;
+  left: 173px;
+  top: 5582px;
+  overflow: visible;
+}
+.rectangle-6 {
+  border-radius: 0px;
+  width: 511px;
+  height: 270px;
+  position: absolute;
+  left: 704px;
+  top: 5642px;
+  overflow: visible;
+}
+.rectangle-7 {
+  border-radius: 0px;
+  width: 511px;
+  height: 270px;
+  position: absolute;
+  left: 1235px;
+  top: 5582px;
+  overflow: visible;
+}
+.frame-45 {
+  width: 1920px;
+  height: 919px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bg {
+  width: 1856px;
+  height: 951px;
+  position: absolute;
+  left: 2231.76px;
+  top: 918.96px;
+  transform-origin: 0 0;
+  transform: rotate(-165deg) scale(1, 1);
+  filter: blur(100px);
+  object-fit: cover;
+}
+.reimagining-social-media-through-the-power-of-the-blockchain {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 173px;
+  top: 334px;
+  width: 562px;
+}
+.at-tokners-we-are {
+  color: linear-gradient(
+      0deg,
+      rgba(43, 48, 135, 1) 0%,
+      rgba(0, 180, 236, 1) 81.99999928474426%
+    ),
+    linear-gradient(to left, #ffd100, #ffd100);
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 176px;
+  top: 300px;
+}
+.we-are-creating-social-media-3-0-with-influencers-celebrities-and-creators-being-able-to-launch-their-own-digital-currency-by-simply-creating-a-profile-with-media-content-posted-as-non-fungible-tokens-that-can-be-owned-and-traded-on-the-tknrs-network {
+  color: #dde2ff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 173px;
+  top: 526px;
+  width: 531px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #22a75d;
+  border-radius: 52px;
+  width: 147px;
+  height: 48px;
+  position: absolute;
+  left: 173px;
+  top: 662px;
+  box-shadow: 0px 15px 25px 0px rgba(34, 167, 93, 0.25);
+}
+.learn-more {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 203px;
+  top: 677px;
+  width: 88px;
+}
+.img {
+  position: absolute;
+  inset: 0;
+}
+.frame-26 {
+  width: 1507px;
+  height: 832px;
+  position: absolute;
+  left: 765px;
+  top: 118px;
+  overflow: visible;
+}
+.group-27 {
+  width: 1165px;
+  height: 1171px;
+  position: static;
+}
+.vector-12 {
+  width: 544.29px;
+  height: 624.89px;
+  position: absolute;
+  left: 1315px;
+  top: 262.22px;
+  overflow: visible;
+}
+.vector-22 {
+  width: 419.53px;
+  height: 481.65px;
+  position: absolute;
+  left: 1285.42px;
+  top: 444.42px;
+  transform: translate(-675.52px, -284.88px);
+  overflow: visible;
+}
+.frame-452 {
+  width: 1165px;
+  height: 1171px;
+  position: absolute;
+  left: 755px;
+  top: 0px;
+  overflow: hidden;
+}
+.mask-group2 {
+  height: auto;
+  position: absolute;
+  left: 79px;
+  top: 186px;
+  overflow: visible;
+}
+.connect-wallet2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 478px;
+  top: 51px;
+}
+.tokens2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 401px;
+  top: 51px;
+}
+.our-team2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 306px;
+  top: 51px;
+}
+.lightpaper2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 612px;
+  top: 51px;
+}
+.rectangle-2 {
+  border-radius: 52px;
+  border-style: solid;
+  border-color: #22a75d;
+  border-width: 2px;
+  width: 147px;
+  height: 48px;
+  position: absolute;
+  left: 1733px;
+  top: 36px;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1762px;
+  top: 51px;
+  width: 88px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1658px;
+  top: 51px;
+}
+.group-31 {
+  position: absolute;
+  inset: 0;
+}
+.group-28 {
+  width: 777px;
+  height: 436px;
+  position: static;
+}
+.rectangle-42 {
+  border-radius: 0px;
+  width: 777px;
+  height: 436px;
+  position: absolute;
+  left: 173px;
+  top: 1140px;
+  overflow: visible;
+}
+.learn-more2 {
+  color: #22a75d;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 243px;
+  top: 1504px;
+}
+.arrow-right-ic {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 326px;
+  top: 1506px;
+  overflow: visible;
+}
+.for-creators {
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 243px;
+  top: 1290px;
+}
+.for-creators-span {
+  color: #ffffff;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+}
+.for-creators-span2 {
+  color: #22a75d;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.creators-can-gain-independence-through-a-decentralised-digital-currency-system-that-is-dependent-on-growing-and-engaging-with-the-community-and-also-their-star-power-they-own-10-15-of-the-total-value-of-the-tokens-minted {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: 243px;
+  top: 1364px;
+  width: 637px;
+}
+.ellipse-18 {
+  background: #22a75d;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 245px;
+  top: 1200px;
+  box-shadow: 0px 15px 25px 0px rgba(34, 167, 93, 0.25);
+}
+.frame {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 268px;
+  top: 1223px;
+  overflow: visible;
+}
+.group-32 {
+  position: absolute;
+  inset: 0;
+}
+.group-30 {
+  width: 777px;
+  height: 436px;
+  position: static;
+}
+.rectangle-52 {
+  border-radius: 0px;
+  width: 777px;
+  height: 436px;
+  position: absolute;
+  left: 970px;
+  top: 1234px;
+  overflow: visible;
+}
+.group-29 {
+  width: 637px;
+  height: 194px;
+  position: static;
+}
+.for-holders {
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 1040px;
+  top: 1384px;
+}
+.for-holders-span {
+  color: #ffffff;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+}
+.for-holders-span2 {
+  color: #2278d4;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.holding-social-tokens-allows-the-individual-to-gain-access-to-benefits-including-unreleased-content-private-communities-direct-access-to-celebrity-early-access-to-tickets-and-more-as-well-as-the-ability-to-trade-with-other-communities-in-order-to-gain-access-to-more-creator-content-with-early-token-buyers-being-the-biggest-winners-as-the-value-of-the-token-increases-with-more-buyers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: 1040px;
+  top: 1458px;
+  width: 637px;
+}
+.ellipse-19 {
+  background: #2278d4;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 1040px;
+  top: 1294px;
+  box-shadow: 0px 15px 25px 0px rgba(34, 120, 212, 0.25);
+}
+.frame2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1063px;
+  top: 1317px;
+  overflow: visible;
+}
+.learn-more3 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 1040px;
+  top: 1598px;
+}
+.arrow-right-ic2 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 1123px;
+  top: 1600px;
+  overflow: visible;
+}
+.group-34 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 1790px;
+  overflow: visible;
+}
+.group-36 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: #ffffff;
+  border-radius: 400px 0px 0px 0px;
+  width: 960px;
+  height: 800px;
+  position: absolute;
+  left: 960px;
+  top: 1790px;
+}
+.we-would-only-launch-tokens-with-the-express-permission-of-the-creators {
+  color: #0f1320;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 1103px;
+  top: 2170px;
+  width: 645px;
+}
+.there-are-several-thousand-celebrities-and-creators-on-twitter-tiktok-instagram-and-you-tube-with-followings-in-the-millions-who-we-would-be-actively-engaging-before-we-go-viral-we-would-get-them-on-our-platform-and-they-would-see-the-opportunity-to-create-a-fan-driven-digital-economy-where-their-digital-content-can-be-traded-as-nf-ts-and-their-most-loyal-fans-can-have-the-monetary-value-of-their-creator-s-currency-increase-significantly-as-they-promote-their-digital-currency-across-their-channels-while-our-native-token-holders-benefit-from-the-weentar-popularity {
+  color: #0f1320;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 1103px;
+  top: 2220px;
+  width: 587px;
+}
+.what-makes-us-different {
+  color: #0f1320;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 1103px;
+  top: 2086px;
+}
+.vector41 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  right: -18.8%;
+  left: 63.33%;
+  width: 55.47%;
+  bottom: 67%;
+  top: 30.4%;
+  height: 2.6%;
+  overflow: visible;
+}
+.vector42 {
+  width: 278px;
+  height: 287px;
+  position: absolute;
+  left: 1920px;
+  top: 2877px;
+  transform: translate(-278px, -287px);
+  overflow: visible;
+}
+.ellipse-182 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 173px;
+  top: 2800px;
+  overflow: visible;
+}
+.ellipse-22 {
+  background: #22a75d;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 277px;
+  top: 2844px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.ellipse-23 {
+  background: #2278d4;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 675px;
+  top: 2844px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.ellipse-24 {
+  background: #ffd100;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 1074px;
+  top: 2844px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.ellipse-25 {
+  background: #e20613;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 1473px;
+  top: 2844px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.ellipse-192 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 571px;
+  top: 2800px;
+  overflow: visible;
+}
+.ellipse-20 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 970px;
+  top: 2800px;
+  overflow: visible;
+}
+.ellipse-21 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 1369px;
+  top: 2800px;
+  overflow: visible;
+}
+.q-1 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 188px;
+  top: 2825px;
+  width: 51px;
+}
+._2021 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 265px;
+  top: 2857px;
+}
+._20212 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 663px;
+  top: 2857px;
+}
+._20213 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1062px;
+  top: 2857px;
+}
+._20214 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1461px;
+  top: 2857px;
+}
+.q-2 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 585px;
+  top: 2825px;
+  width: 51px;
+}
+.q-3 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 983px;
+  top: 2825px;
+  width: 51px;
+}
+.q-4 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1381px;
+  top: 2825px;
+  width: 51px;
+}
+.team-set-up-launch-of-informational-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 208px;
+  top: 2932px;
+  width: 332px;
+}
+._01 {
+  color: #22a75d;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 173px;
+  top: 2934px;
+}
+._02 {
+  color: #22a75d;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 173px;
+  top: 2968px;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.presale-and-exchange-listings-blockchain-development-and-launch-launch-of-our-mvp-influencer-agency-partnerships-marketing-and-promotion {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 606px;
+  top: 2932px;
+}
+._04 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 3036px;
+}
+._03 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 3002px;
+}
+._022 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 2968px;
+}
+._012 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 2934px;
+}
+._05 {
+  color: #2278d4;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 3070px;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 0undefined;
+  font-weight: 400;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1005px;
+  top: 2932px;
+  width: 303px;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion-span {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion-span2 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion-span3 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion-span4 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.celebrity-creator-and-influencer-partnerships-expansion-of-creator-communities-on-our-platform-more-marketing-and-promotion-span5 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+}
+._032 {
+  color: #ffd100;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 970px;
+  top: 3042px;
+}
+._023 {
+  color: #ffd100;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 970px;
+  top: 2988px;
+}
+._013 {
+  color: #ffd100;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 970px;
+  top: 2934px;
+}
+.group-14 {
+  position: absolute;
+  inset: 0;
+}
+.mainstream-partnerships-500-active-creator-communities-2-million-active-community-members-more-marketing-and-promotion {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 400;
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1404px;
+  top: 2932px;
+}
+._042 {
+  color: #e20613;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 1369px;
+  top: 3036px;
+}
+._033 {
+  color: #e20613;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 1369px;
+  top: 3002px;
+}
+._024 {
+  color: #e20613;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 1369px;
+  top: 2968px;
+}
+._014 {
+  color: #e20613;
+  text-align: left;
+  font-family: "AzoSans-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 34px;
+  font-weight: 700;
+  position: absolute;
+  left: 1369px;
+  top: 2934px;
+}
+.group-152 {
+  position: absolute;
+  inset: 0;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 0undefined;
+  font-weight: 400;
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 173px;
+  top: 3375px;
+  width: 644px;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look-span {
+  color: #ffffff;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look-span2 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look-span3 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look-span4 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+}
+.cryptocurrency-adoption-is-at-less-than-1-of-the-global-world-population-with-some-countries-and-entities-actively-fighting-against-its-mass-adoption-and-the-smartest-developers-and-nerds-holding-the-fort-bitcoin-was-the-first-and-it-has-since-grown-to-thousands-of-tokens-launched-all-aiming-to-fix-one-problem-or-the-other-with-some-quite-simply-fom-oing-the-moment-our-goal-is-to-bring-mass-adoption-to-the-cryptocurrency-space-by-dumbing-it-down-how-far-down-so-down-that-even-a-celebrity-can-explain-it-in-simple-words-to-their-followers-and-have-them-download-an-app-buy-into-the-social-currency-of-their-favourite-person-and-watch-their-investment-as-is-with-other-crypto-currency-project-we-are-trying-to-do-to-this-space-what-investment-apps-did-for-the-nonexistent-retail-investors-we-are-gamefying-digital-currency-bringing-in-popular-faces-instead-of-hard-to-understand-projects-to-make-it-the-norm-and-inadvertently-being-the-gateway-drug-for-a-lot-of-people-to-finally-give-this-space-a-real-look-span5 {
+  color: #ffffff;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.well-kanye-didn-t-exactly-say-that-but-it-sounds-like-something-we-hope-he-would-say-currency-is-digital-it-has-been-that-way-for-a-while-now-but-this-time-there-would-be-no-dead-presidents-on-the-money-there-would-people-like-you-on-the-money-and-you-would-own-it-because-it-would-make-the-most-sense-in-the-world {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 173px;
+  top: 3987px;
+  width: 636px;
+}
+.a-new-digital-economy-is-coming-people-would-be-just-as-powerful-as-countries-and-creators-would-be-paid-beyond-the-peanuts-that-conventional-social-media-platforms-can-offer-there-would-be-new-markets-and-advertisers-with-little-to-offer-would-not-find-home-there-like-kanye-said {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 0undefined;
+  font-weight: 400;
+  position: absolute;
+  left: 173px;
+  top: 3763px;
+  width: 644px;
+}
+.a-new-digital-economy-is-coming-people-would-be-just-as-powerful-as-countries-and-creators-would-be-paid-beyond-the-peanuts-that-conventional-social-media-platforms-can-offer-there-would-be-new-markets-and-advertisers-with-little-to-offer-would-not-find-home-there-like-kanye-said-span {
+  color: #9fa1a6;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.a-new-digital-economy-is-coming-people-would-be-just-as-powerful-as-countries-and-creators-would-be-paid-beyond-the-peanuts-that-conventional-social-media-platforms-can-offer-there-would-be-new-markets-and-advertisers-with-little-to-offer-would-not-find-home-there-like-kanye-said-span2 {
+  color: #9fa1a6;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+}
+.a-new-digital-economy-is-coming-people-would-be-just-as-powerful-as-countries-and-creators-would-be-paid-beyond-the-peanuts-that-conventional-social-media-platforms-can-offer-there-would-be-new-markets-and-advertisers-with-little-to-offer-would-not-find-home-there-like-kanye-said-span3 {
+  color: #9fa1a6;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.personalities-would-become-the-new-currency-and-services-would-be-built-on-top-of-them {
+  color: #9fa1a6;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 199px;
+  top: 3919px;
+  width: 601px;
+}
+.personalities-would-become-the-new-currency-and-services-would-be-built-on-top-of-them-span {
+  color: #9fa1a6;
+  font-family: "CenturyGothic-BoldItalic", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  font-style: italic;
+}
+.personalities-would-become-the-new-currency-and-services-would-be-built-on-top-of-them-span2 {
+  color: #9fa1a6;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.div4 {
+  color: #ffd100;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 173px;
+  top: 3925px;
+}
+.tokner-is-coming {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 252px;
+  top: 3291px;
+}
+.group-35 {
+  width: 52.7px;
+  height: 32.87px;
+  position: absolute;
+  left: 175.3px;
+  top: 3303.82px;
+  overflow: visible;
+}
+.group-55 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  border-radius: 52px;
+  border-style: solid;
+  border-color: #22a75d;
+  border-width: 2px;
+  width: 147px;
+  height: 48px;
+  position: absolute;
+  left: 173px;
+  top: 4151px;
+}
+.read-more {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 202px;
+  top: 4166px;
+  width: 88px;
+}
+.rectangle-53 {
+  background: #171b29;
+  border-radius: 25px;
+  width: 777px;
+  height: 900px;
+  position: absolute;
+  left: 970px;
+  top: 3309px;
+}
+.woman-holding-i-phone-xs-in-hand-mockup-1 {
+  width: 891px;
+  height: 928px;
+  position: absolute;
+  left: 1747px;
+  top: 3281px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.presale-details {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 792px;
+  top: 4599px;
+}
+.vector45 {
+  width: 278px;
+  height: 287px;
+  position: absolute;
+  left: 0px;
+  top: 4934px;
+  overflow: visible;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.group-39 {
+  width: 511px;
+  height: 585px;
+  position: static;
+}
+.rectangle-72 {
+  background: #ffffff;
+  border-radius: 25px;
+  width: 511px;
+  height: 585px;
+  position: absolute;
+  left: 173px;
+  top: 4673px;
+}
+._015 {
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 288px;
+  line-height: 288px;
+  font-weight: 700;
+  opacity: 0.07999999821186066;
+  position: absolute;
+  left: 268px;
+  top: 4730px;
+}
+.phase-one {
+  color: #191b21;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 347px;
+  top: 4928px;
+}
+._0-04-2021-16-04-2021 {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 338px;
+  top: 4991px;
+}
+.group-16 {
+  width: 204px;
+  height: 90px;
+  position: static;
+}
+.soft-cap-5000-bnb {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 356px;
+  top: 5121px;
+}
+.soft-cap-5000-bnb-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.soft-cap-5000-bnb-span2 {
+  color: #191b21;
+  font-family: "AzoSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.soft-cap-5000-bnb-span3 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+.hard-cap-10000-bnb {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 347px;
+  top: 5151px;
+}
+.hard-cap-10000-bnb-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-span2 {
+  color: #191b21;
+  font-family: "AzoSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-span3 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+._1-bnb-100000-wntr {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 326px;
+  top: 5081px;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: 25px;
+  width: 511px;
+  height: 585px;
+  position: absolute;
+  left: 1235px;
+  top: 4673px;
+}
+._034 {
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 288px;
+  line-height: 288px;
+  font-weight: 700;
+  opacity: 0.07999999821186066;
+  position: absolute;
+  left: 1331px;
+  top: 4730px;
+}
+.group-19 {
+  width: 204px;
+  height: 243px;
+  position: static;
+}
+.phase-three {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 1397px;
+  top: 4928px;
+}
+._0-04-2021-16-04-20212 {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 1400px;
+  top: 4991px;
+}
+.soft-cap-5000-bnb2 {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 1417px;
+  top: 5121px;
+}
+.soft-cap-5000-bnb-2-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.soft-cap-5000-bnb-2-span2 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+.hard-cap-10000-bnb2 {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 1409px;
+  top: 5151px;
+}
+.hard-cap-10000-bnb-2-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-2-span2 {
+  color: #191b21;
+  font-family: "AzoSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-2-span3 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+._1-bnb-100000-wntr2 {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 1388px;
+  top: 5081px;
+}
+.group-20 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-82 {
+  background: #ffffff;
+  border-radius: 25px;
+  width: 511px;
+  height: 585px;
+  position: absolute;
+  left: 704px;
+  top: 4733px;
+}
+._025 {
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 288px;
+  line-height: 288px;
+  font-weight: 700;
+  opacity: 0.07999999821186066;
+  position: absolute;
+  left: 800px;
+  top: 4790px;
+}
+.group-18 {
+  width: 204px;
+  height: 243px;
+  position: static;
+}
+.phase-two {
+  color: #191b21;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 879px;
+  top: 4988px;
+}
+._0-04-2021-16-04-20213 {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 870px;
+  top: 5051px;
+}
+.soft-cap-5000-bnb3 {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 887px;
+  top: 5181px;
+}
+.soft-cap-5000-bnb-3-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.soft-cap-5000-bnb-3-span2 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+.hard-cap-10000-bnb3 {
+  color: #191b21;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 879px;
+  top: 5211px;
+}
+.hard-cap-10000-bnb-3-span {
+  color: #191b21;
+  font-family: "CenturyGothic-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-3-span2 {
+  color: #191b21;
+  font-family: "AzoSans-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.hard-cap-10000-bnb-3-span3 {
+  color: #191b21;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+._1-bnb-100000-wntr3 {
+  color: #191b21;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 700;
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 858px;
+  top: 5141px;
+}
+.vector46 {
+  width: 278px;
+  height: 287px;
+  position: absolute;
+  left: 1920px;
+  top: 4706px;
+  transform: translate(-278px, -287px);
+  overflow: visible;
+}
+.how-to-buy {
+  color: #f7f5f9;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 862px;
+  top: 5478px;
+}
+.first-connect-your-metamask-or-trust-wallet-to-the-connect-wallet-on-the-homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 306px;
+  top: 5681px;
+  width: 262px;
+}
+._016 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 700;
+  opacity: 0.30000001192092896;
+  position: absolute;
+  left: 203px;
+  top: 5612px;
+  width: 262px;
+}
+.then-send-minimum-of-0-1-bnb-or-maximum-of-10-bnb-to-the-presale-wallet {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 837px;
+  top: 5741px;
+  width: 246px;
+}
+._026 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 700;
+  opacity: 0.30000001192092896;
+  position: absolute;
+  left: 734px;
+  top: 5672px;
+  width: 246px;
+}
+.then-after-you-will-received-your-wntr-to-your-address-within-24-hours {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1368px;
+  top: 5681px;
+  width: 246px;
+}
+._035 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 700;
+  opacity: 0.30000001192092896;
+  position: absolute;
+  left: 1265px;
+  top: 5612px;
+  width: 246px;
+}
+.ellipse-35 {
+  background: #0f1320;
+  border-radius: 50%;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 651px;
+  top: 5703px;
+}
+.chevron-right-ic {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 682px;
+  top: 5734px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.chevron-right {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.ellipse-36 {
+  background: #0f1320;
+  border-radius: 50%;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 1182px;
+  top: 5703px;
+}
+.chevron-right-ic2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1213px;
+  top: 5734px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.chevron-right2 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.group-44 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-183 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 388px;
+  top: 4783px;
+  overflow: visible;
+}
+._017 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 403px;
+  top: 4808px;
+  width: 51px;
+}
+.group-43 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-193 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 919px;
+  top: 4843px;
+  overflow: visible;
+}
+._027 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 933px;
+  top: 4868px;
+  width: 51px;
+}
+.group-42 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-202 {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  left: 1450px;
+  top: 4783px;
+  overflow: visible;
+}
+._036 {
+  color: #0f1320;
+  text-align: center;
+  font-family: "CenturyGothic-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1463px;
+  top: 4808px;
+  width: 51px;
+}
+.logo-colored-sign-black-text2 {
+  width: 187.06px;
+  height: 30px;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  overflow: hidden;
+}
+.group-38 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+  overflow: visible;
+}
+.tokners2 {
+  height: auto;
+  position: absolute;
+  right: 2.7%;
+  left: 29.4%;
+  width: 67.89%;
+  bottom: 0%;
+  top: 26.67%;
+  height: 73.33%;
+  overflow: visible;
+}
